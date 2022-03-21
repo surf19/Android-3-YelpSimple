@@ -22,7 +22,7 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://gifs.com/gif/simple-yelp-Z8GDWg' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://j.gifs.com/Z8GDWg.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## Notes
